@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "2fcbe970b6e26294",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6d407d362c6657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0284c46ac461a527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ac458aaee008162",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b987cab0ee53c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e9cc0e47c3a02a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3610ca0001825f1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4202a912504882d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b72da05ccac14509",
+    "type": "split",
+    "children": [
+      {
+        "id": "ade0d005fa865647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53bccc84961e9aae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5e6551435fef3ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcf8545e3024a8eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f7dfacf18d140e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0284c46ac461a527",
+  "lastOpenFiles": [
+    "_articles/发帖指南.md",
+    "index.md",
+    "_articles/table test.md",
+    "ring.md",
+    "readme.md",
+    "_daily/2023-08-15.md",
+    "assets/imgs/qiancorp.png",
+    "_daily/2023-08-07.md",
+    "images/EAA98C47-192A-4405-BAC9-DFE6CA319C08.png",
+    "images/CC9978F4-6A45-4437-AF05-8C77D33FD256.jpeg",
+    "_site/images/2022-05-13-01-55-36.png",
+    "images/water.png",
+    "_site/images/water.png",
+    "_site/images/study-monk.png",
+    "_site/images/steel-nobg.png",
+    "library/In the Kingdom of Mao Bell _ WIRED_files/CDN_1001_Wired_Concept2_O&O_Growler_Version1_750x500_Desktop (1).gif",
+    "images/korean-chicken-soup.jpg",
+    "_site/readme.md",
+    "_journal/thats-why-im-in-thailand.md",
+    "_wiki/L-Dopa.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
+    "_daily/Further research.md",
+    "_journal/exocore-workflow.md",
+    "_journal/korean-ginseng-chicken-soup.md",
+    "_journal/jade-post.md",
+    "_journal/how-to-profit-total-million-dollar.md",
+    "exocore/_templates/_journal.md",
+    "exocore/_templates/_scrapbook.md",
+    "exocore/_templates/_article.md",
+    "exocore/_templates/_daily.md",
+    "exocore/_templates/_wiki.md",
+    "library/Cyberspace and the Dream of Tielhard de Chardin_files",
+    "library/In the Kingdom of Mao Bell _ WIRED_files",
+    "_site/assets/templater-scripts",
+    "library/The Long Tail_files",
+    "assets/templater-scripts",
+    "_site/assets/attachments",
+    "_site/assets/imgs/icons",
+    "_site/assets/imgs/BGs",
+    "_site/assets/favicon",
+    "assets/attachments"
+  ]
+}
